@@ -2,12 +2,18 @@
 		"url": "https://github.com/YannisDC/qARTAssets/blob/master/The%20Milkmaid.reality?raw=true",
 		"title": "The Milkmaid",
 		"artist": "Johannes Vermeer",
-		"image": "milkmaid"
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/milkmaid.jpg"
 	},
 	{
-		"url": "https://github.com/YannisDC/qARTAssets/blob/master/The%20Milkmaid.reality?raw=true",
-		"title": "The Milkmaid",
-		"artist": "Johannes Vermeer",
-		"image": "milkmaid"
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Mada.reality?raw=true",
+		"title": "Mäda Primavesi",
+		"artist": "Gustav Klimt",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/mada.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Boysbathing.reality?raw=true",
+		"title": "Boys Bathing",
+		"artist": "Edvard Munch",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/boysbathing.jpg"
 	}
 ]
