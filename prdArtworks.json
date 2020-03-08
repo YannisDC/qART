@@ -15,5 +15,29 @@
 		"title": "Boys Bathing",
 		"artist": "Edvard Munch",
 		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/boysbathing.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/StarryNight.reality?raw=true",
+		"title": "Starry Night",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/starrynight.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Irises.reality?raw=true",
+		"title": "Irises",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/irises.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Sunflowers.reality?raw=true",
+		"title": "Sunflowers",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/sunflowers.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/TheBedroom.reality?raw=true",
+		"title": "The Bedroom",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/thebedroom.jpg"
 	}
 ]
