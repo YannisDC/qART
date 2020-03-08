@@ -2,12 +2,42 @@
 		"url": "https://github.com/YannisDC/qARTAssets/blob/master/The%20Milkmaid.reality?raw=true",
 		"title": "The Milkmaid",
 		"artist": "Johannes Vermeer",
-		"image": "milkmaid"
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/milkmaid.jpg"
 	},
 	{
-		"url": "https://github.com/YannisDC/qARTAssets/blob/master/The%20Milkmaid.reality?raw=true",
-		"title": "The Milkmaid",
-		"artist": "Johannes Vermeer",
-		"image": "milkmaid"
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Mada.reality?raw=true",
+		"title": "Mäda Primavesi",
+		"artist": "Gustav Klimt",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/mada.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Boysbathing.reality?raw=true",
+		"title": "Boys Bathing",
+		"artist": "Edvard Munch",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/boysbathing.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/StarryNight.reality?raw=true",
+		"title": "Starry Night",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/starrynight.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Irises.reality?raw=true",
+		"title": "Irises",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/irises.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/Sunflowers.reality?raw=true",
+		"title": "Sunflowers",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/sunflowers.jpg"
+	},
+	{
+		"url": "https://github.com/YannisDC/qARTAssets/blob/master/AR/TheBedroom.reality?raw=true",
+		"title": "The Bedroom",
+		"artist": "Vincent Van Gogh",
+		"image": "https://github.com/YannisDC/qARTAssets/raw/master/IMG/thebedroom.jpg"
 	}
 ]
